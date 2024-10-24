@@ -1,2 +1,2 @@
 # Handwashing-Project
-Dr. Semmelweis and the Discovery of Handwashing
+Dr. Ignaz Semmelweis, a 19th-century Hungarian physician, discovered that handwashing significantly reduced the spread of puerperal fever in maternity wards. He observed that doctors were transferring harmful "cadaverous particles" from autopsies to patients and implemented a handwashing policy with chlorinated lime, drastically lowering mortality rates. Though his findings were initially rejected, his work laid the foundation for modern antiseptic practices and the critical role of hygiene in preventing infections.
